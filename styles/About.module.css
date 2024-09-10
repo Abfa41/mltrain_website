@@ -1,0 +1,71 @@
+/* styles/About.module.css */
+
+
+
+
+
+.container {
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  color: black;
+  justify-content: center;
+
+}
+
+.part1{
+  color: black;
+  padding-left: 10vh;
+}
+
+.heading {
+  font-size: 2em;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.subheading {
+  font-size: 1.2em;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  line-height: 1.6;
+  color: black;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.social_container{
+  display: flex;
+  margin-top: 5vh;
+
+  justify-content: center;
+  align-content: center;
+
+}
+
+.social_icon{
+  margin: 2vh;
+  cursor: pointer;
+
+}
+
+@media (max-width: 600px) {
+  .container{
+    display: block;
+    margin: auto;
+  }
+
+  .part1{
+    margin-top: 3vh;
+    padding-left: 0;
+  }
+
+}
