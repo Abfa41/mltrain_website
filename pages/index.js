@@ -38,6 +38,7 @@ export default function Home() {
     <>
       <Head>
         <title>mltrain - Home</title>
+        <meta name="google-site-verification" content="oaSTgfkm7CEek0H-bkCZJx43I-JlZ81A5vNdYCDooDQ" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div style={{height: '87vh'}}>
