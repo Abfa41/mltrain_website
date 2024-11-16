@@ -18,9 +18,9 @@ export default function Home() {
     <>
       <Head>
         <title>mltrain - Home</title>
-        <meta name="description" content="mltrain is a versatile machine learning package designed to simplify and accelerate your ML training processes. Perfect for both beginners and professionals.">
-        <meta name="keywords" content="mltrain, machine learning, ML package, ML training, deep learning, ML tools, Abdul Faatih Siddiqui, abfa's project">
-        <meta name="author" content="Abdul Faatih Siddiqui">
+        <meta name="description" content="mltrain is a versatile machine learning package designed to simplify and accelerate your ML training processes. Perfect for both beginners and professionals."/>
+        <meta name="keywords" content="mltrain, machine learning, ML package, ML training, deep learning, ML tools, Abdul Faatih Siddiqui, abfa's project"/>
+        <meta name="author" content="Abdul Faatih Siddiqui"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div style={{width: '25vw'}}>
