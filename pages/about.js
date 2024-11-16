@@ -9,9 +9,9 @@ const About = () => {
     <>
       <Head>
         <title>mltrain - About</title>
-        <meta name="description" content="Learn more about mltrain, mltrain is a Machine Learning Library created by Abdul Faatih Siddiqui. It provides Supervised and Unsupervised ML Models. It has simple functionality. Ideal for learners and professionals.">
-        <meta name="keywords" content="mltrain, machine learning, ML package, ML training, deep learning, ML tools, Abdul Faatih Siddiqui, About mltrain">
-        <meta name="author" content="Abdul Faatih Siddiqui">
+        <meta name="description" content="Learn more about mltrain, mltrain is a Machine Learning Library created by Abdul Faatih Siddiqui. It provides Supervised and Unsupervised ML Models. It has simple functionality. Ideal for learners and professionals."/>
+        <meta name="keywords" content="mltrain, machine learning, ML package, ML training, deep learning, ML tools, Abdul Faatih Siddiqui, About mltrain"/>
+        <meta name="author" content="Abdul Faatih Siddiqui"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.container}>
